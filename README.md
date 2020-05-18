@@ -29,4 +29,4 @@ Fonts from [Google Fonts](https://developers.google.com/fonts).
 Original CSS provided by [Trilogy Education Services](https://www.trilogyed.com/). 
 
 ## Contact
-Email: yuriohliveira@gmail.com@gmail.com
+Email: yuriohliveira@gmail.com
